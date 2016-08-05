@@ -1,0 +1,1 @@
+<p><div class="text-lowercase text-muted spacer"><!--#echo var="SERVER_NAME" --> <stong>&middot;</stong> <!--#echo var="ICM_ERR_DETAIL" --></div><div class="text-muted"><!--#echo var="DATE_GMT" --></div></p><img src="/public/sap-logo.png" class="img-responsive center-block" alt="SAP">

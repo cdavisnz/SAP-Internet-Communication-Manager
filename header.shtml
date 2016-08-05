@@ -1,0 +1,13 @@
+		<link href="/public/bootstrap.min.css" rel="stylesheet">
+		<style type="text/css" media="screen">
+		body {
+			background:#f1f1f1 !important;		
+		}
+		.top-bar {
+			border-top: #009de0 4px solid;
+			margin-bottom: 0;
+		}
+		.spacer {
+			margin-top: 15px;
+		}
+		</style> 

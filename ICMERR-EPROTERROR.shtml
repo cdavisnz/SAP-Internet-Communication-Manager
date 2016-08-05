@@ -1,0 +1,20 @@
+<!DOCTYPE html
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<!-- ICMERR-EPROTERROR? --> 
+		<title>Bad Request &middot; SAP Pages</title>
+		<!--#include file="header.shtml" --> 
+	</head>
+	<body>
+		<div class="top-bar"></div>
+		<div class="container-fluid text-center">
+			<h1>400</h1>
+			<h3 class="text-muted">Bad Request</h3>
+			<p class="spacer">The request was received but the server is refusing to respond to it as due the wrong protocol, header data etc.</p>
+			<!--#include file="footer.shtml" -->
+		</div>
+	</body>
+</html>

@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<!-- ICMERR-EDISPATCHERR --> 
+		<title>Dispatch Error &middot; SAP Pages</title>
+		<!--#include file="header.shtml" --> 
+	</head>
+	<body>
+		<div class="top-bar"></div>
+		<div class="container-fluid text-center">
+			<h1>503</h1>
+			<h3 class="text-muted">Dispatch Error</h3>
+			<p class="spacer">The request was understood but the server unable to dispatch it to the requested system.</p> 
+			<!--#include file="footer.shtml" --> 
+		</div>
+	</body>
+</html>
