@@ -1,4 +1,5 @@
 # error_templ
+<MTMarkdownOptions output='raw'>
 
 INTRODUCTION: 
 
@@ -22,3 +23,4 @@ https://github.com/cdavisnz/error_templ/wiki/error-codes
 DISCLAIMER:
 
 --
+</MTMarkdownOptions>
