@@ -1,5 +1,5 @@
 # error_templ
-/*
+\*
 INTRODUCTION: 
 
 SAP Internet Communication Manager (ICM) Error Handling
