@@ -3,7 +3,6 @@
 INTRODUCTION: 
 
 SAP Internet Communication Manager (ICM) Error Handling
-
 Sample content, based twitter's bootstrap to providing responsive error pages that can load into SAPs Internet Communication Manager.
 --
 PARAMETER: icm/HTTP/error_templ_path
