@@ -1,5 +1,5 @@
 # error_templ
-
+/*
 INTRODUCTION: 
 
 SAP Internet Communication Manager (ICM) Error Handling
@@ -21,3 +21,4 @@ https://github.com/cdavisnz/error_templ/wiki/error-codes
 DISCLAIMER:
 
 --
+*/
