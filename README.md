@@ -1,9 +1,9 @@
 # error_templ
-\*
+
 INTRODUCTION: 
 
-SAP Internet Communication Manager (ICM) Error Handling
-Sample content, based twitter's bootstrap to providing responsive error pages that can load into SAPs Internet Communication Manager.
+  SAP Internet Communication Manager (ICM) Error Handling
+  Sample content, based twitter's bootstrap to providing responsive error pages that can load into SAPs Internet Communication Manager.
 --
 PARAMETER: icm/HTTP/error_templ_path
 This parameter is used to set the file-system location for where the custom  error pages can be found. 
@@ -21,4 +21,3 @@ https://github.com/cdavisnz/error_templ/wiki/error-codes
 DISCLAIMER:
 
 --
-\*
